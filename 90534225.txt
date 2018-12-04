@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>第一頁</title>
+</head>
+
+<body>
+
+<img src="image/003.jpg">
+<h5>金州勇士今天作客亞特蘭大老鷹主場，在3巨頭柯瑞（Stephen Curry）、<br>
+杜蘭特（Kevin Durant）、湯普森（Klay Thompson）<br>
+合砍85分的情況下，以128比111擊敗老鷹踢館成功，<br>
+也中止近期的客場6連敗。</h5><p>
+
+<a href="2nd.html">我要連到第二頁</a>
+
+</body>
+</html>
